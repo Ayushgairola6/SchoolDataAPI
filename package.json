@@ -10,7 +10,8 @@
   "type": "module",
   "devDependencies": {},
   "scripts": {
-    "test": "node index"
+    "test": "node index",
+    "start": "node index"
   },
   "author": "ayush gairola",
   "license": "ISC",

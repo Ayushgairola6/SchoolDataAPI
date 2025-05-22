@@ -21,7 +21,7 @@
                     "raw": "{\n  \"schoolName\": \"Green Valley Public School\",\n  \"address\": \"123 Green Street, Dehradun\",\n  \"latitude\": 30.3165,\n  \"longitude\": 78.0322\n}"
                 },
                 "url": {
-                    "raw": "http://localhost:5000/addSchool",
+                    "raw": "https://schooldataapi.onrender.com/addSchool",
                     "protocol": "http",
                     "host": [
                         "localhost"
@@ -52,7 +52,7 @@
                 "method": "GET",
                 "header": [],
                 "url": {
-                    "raw": "http://localhost:5000/listSchools/30.3165/78.0322?maxDistance=5",
+                    "raw": "https://schooldataapi.onrender.com/listSchools/30.3165/78.0322?maxDistance=5",
                     "protocol": "http",
                     "host": [
                         "localhost"
